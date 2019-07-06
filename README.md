@@ -9,7 +9,7 @@
 
 # 2009-7-11-L-L-SF
 
-[Whitelisting](https://cloud.ibm.com/registration/whitelist)
+[Whitelisting](https://cloud.ibm.com/registration/whitelist). https://cloud.ibm.com/registration/?cm_
 
 ## News
 
