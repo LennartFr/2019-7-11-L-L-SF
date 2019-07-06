@@ -58,7 +58,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 ## Let's start with Hyperledger:
 
-<img src="hyperledger.png" width="1041" height="500">
+<img src= "Hyperledger.png" width="1000" height="500">
 
 ### [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
 
