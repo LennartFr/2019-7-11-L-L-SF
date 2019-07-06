@@ -1,4 +1,4 @@
-# Event URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
+# Event URL: [https://bit.ly/2JisLG9](https://bit.ly/2JisLG9)
 
 # Title: An introduction to the brand new IBM Blockchain Platform 2.0 in the Cloud!
 ## From Hyperledger Fabric to IBM Blockchain Platform 2.0
