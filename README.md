@@ -5,7 +5,7 @@
 
 # linkedin.com/in/lennartfrantzell
 
-# 09-06-13-SF-Lunch-and-Learn
+# 2019-07-11-SF-L-L-SF
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist)
 
