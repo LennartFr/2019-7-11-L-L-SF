@@ -27,7 +27,7 @@ Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4fe
 
 Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
 
-Christian Cachin IBM Cryptographer, Zurich. https://twitter.com/cczurich?lang=en
+Christian Cachin Swiss Cryptographer, Zurich. https://twitter.com/cczurich?lang=en
 
 IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
 
@@ -56,7 +56,9 @@ Digital signatures provide part of the solution, but the main benefits are lost 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
 
-## Let's start with Hyperledger Fabric:
+## Let's start with Hyperledger:
+
+<img src="hyperledger.png" width="1041" height="500'>
 
 ### [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
 
@@ -85,14 +87,13 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 <img src="login.png">
 
-
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
 
 ### IBM Blockchain Platform in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). Select "Blockchain Platform IBM IAM-enabled"
 
 <img src="IBP_2.0.png">
 
-IAM Enabled= "Identidy and Access Management"
+IAM Enabled= "Identity and Access Management"
 
 ### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
 
