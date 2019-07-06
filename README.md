@@ -95,6 +95,8 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 <img src="login.png">
 
+[Promocodes](https://www.slideshare.net/LennartF/pcode)
+
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
 
 ### IBM Blockchain Platform in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). Select "Blockchain Platform IBM IAM-enabled"
