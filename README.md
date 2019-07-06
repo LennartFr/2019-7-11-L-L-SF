@@ -1,5 +1,3 @@
-# 2019-7-11-L-L-SF
-
 # Event URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
 
 # Title: An introduction to the brand new IBM Blockchain Platform 2.0 in the Cloud!
