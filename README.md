@@ -1,15 +1,4 @@
-# Event URL: [https://bit.ly/2JisLG9](https://bit.ly/2JisLG9)
-
-# Title: An introduction to the brand new IBM Blockchain Platform 2.0 in the Cloud!
-## From Hyperledger Fabric to IBM Blockchain Platform 2.0
-
-# linkedin.com/in/lennartfrantzell
-
-# 2019-07-11-SF-L-L-SF
-
-[Whitelisting](https://cloud.ibm.com/registration/whitelist)
-
-## News
+??
 
 [Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
 
@@ -62,7 +51,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 1. #### [https://github.com/hyperledger/](https://github.com/hyperledger/)
 1. #### [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
-1. #### [Cargill Hyperledger Grid](https://www.hyperledger.org/projects/grid)
+1. #### [Cargill Hyperledger Grid for Supply Chain solutions](https://www.hyperledger.org/projects/grid)
 1. #### [Hyperledger Caliper Benchmark tool](https://www.hyperledger.org/projects/caliper)
 1. #### [Hyperledger Quilt  offers interoperability between ledger systems by implementing the Interledger protocol ](https://www.hyperledger.org/projects/quilt)
 1. #### [Hyperledger URSA a shared cryptographic library](https://www.hyperledger.org/projects/ursa)
