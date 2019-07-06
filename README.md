@@ -1,4 +1,15 @@
-??
+# Event URL: [https://bit.ly/2IqATCK](https://bit.ly/2IqATCK)
+
+# Title: An introduction to the brand new IBM Blockchain Platform 2.0 in the Cloud!
+## From Hyperledger Fabric to IBM Blockchain Platform 2.0
+
+# linkedin.com/in/lennartfrantzell
+
+# 09-06-13-SF-Lunch-and-Learn
+
+[Whitelisting](https://cloud.ibm.com/registration/whitelist)
+
+## News
 
 [Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
 
