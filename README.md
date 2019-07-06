@@ -1,6 +1,6 @@
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Event URL: [https://bit.ly/2JisLG9](https://bit.ly/2JisLG9
+# Event URL: [https://bit.ly/2JisLG9](https://bit.ly/2JisLG9)
 
 # Title: An introduction to the brand new IBM Blockchain Platform 2.0 in the Cloud!
 ## From Hyperledger Fabric to IBM Blockchain Platform 2.0
