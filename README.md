@@ -91,7 +91,7 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 ##  Now let's talk about IBM Blockchain Platform 
 
-### IBM Cloud sign-up link: [https://ibm.biz/Bdzqsf](https://ibm.biz/Bdzqsf)
+### IBM Cloud sign-up link: [https://ibm.biz/BdzMtC](https://ibm.biz/BdzMtC)
 
 <img src="login.png">
 
