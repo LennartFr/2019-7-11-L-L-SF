@@ -60,7 +60,11 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 <img src= "Hyperledger.png" width="1000" height="500">
 
-### [https://github.com/hyperledger/fabric](https://github.com/hyperledger/fabric)
+### [https://github.com/hyperledger/](https://github.com/hyperledger/)
+
+#### [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
+
+
 
 ### [Writing your first application with Smart Contracts in Node.js in Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-1.4/write_first_app.html#writing-your-first-application)
 
