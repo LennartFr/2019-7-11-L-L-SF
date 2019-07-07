@@ -6,7 +6,9 @@
 
 # linkedin.com/in/lennartfrantzell
 
-[Whitelisting](https://cloud.ibm.com/registration/whitelist). https://cloud.ibm.com/registration/?cm_
+[Whitelisting](https://cloud.ibm.com/registration/whitelist). 
+
+registration/?cm_
 
 ## News
 
