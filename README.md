@@ -37,13 +37,14 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Learning Objectives:
-1. Introduction
 
-1. How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
+1. Introduction
 
 1. On your laptop: how to install the IBM Visual Studio Code with the brand new IBP plugin
 
 1. How to create your first Smart Contract with Visual Studio Code
+
+1. How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
