@@ -2,7 +2,7 @@
 
 # Event URL: [https://bit.ly/2JisLG9](https://bit.ly/2JisLG9)
 
-# An introduction to the brand new IBM Blockchain Platform 2.0!
+# An introduction to the IBM Blockchain Platform 2.0!
 
 # Linkedin.com/in/lennartfrantzell
 
