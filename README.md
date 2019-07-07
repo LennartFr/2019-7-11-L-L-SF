@@ -84,7 +84,44 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Learning Objective 2: How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
+
+
+# Learning Objective 2: On your laptop: how to install the IBM Visual Studio Code with the brand new IBP plugin
+
+<img src="VSC_BC.png">
+
+
+### [Visual Studio Code](https://code.visualstudio.com)
+
+### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+
+<img src="architecture.png">
+
+[An introduction to programming Hyperledger Fabric on SlideShare](https://www.slideshare.net/LennartF/ibp-technical-introduction)
+
+[IBM Blockchain Platform on SlideShare](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
+
+[IBM Blockchain Solutions on SlideShare](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Learning Objective 3: Developing smart contracts with Visual Studio Code extension 
+
+[Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
+
+[Download Visual Studio Code](https://code.visualstudio.com/)
+
+[Install IBM Blockchain Platform for VS Code ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+
+Go through Tutorial One in VS Code: Local Smart Contract Development.
+
+Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an application gateway</i> 
+
+<img src="VSCODE_TUT1.PNG" width="300" height="500">
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Learning Objective 4: How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
 
 ##  Now let's talk about IBM Blockchain Platform 
 
@@ -109,45 +146,9 @@ IAM Enabled= "Identity and Access Management"
 
 <img src="IBP_Nodes.png" length="500" height="500">
 
-
 ### [Build a Network Tutorial with the IBM Blockchain Platform ](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-ibp-console-build-network#ibp-console-build-network-sample-tutorial)
 
-# Learning Objective 3: On your laptop: how to install the IBM Visual Studio Code with the brand new IBP plugin
-
-<img src="VSC_BC.png">
-
-
-### [Visual Studio Code](https://code.visualstudio.com)
-
-### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
-
-<img src="architecture.png">
-
-[An introduction to programming Hyperledger Fabric on SlideShare](https://www.slideshare.net/LennartF/ibp-technical-introduction)
-
-[IBM Blockchain Platform on SlideShare](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
-
-[IBM Blockchain Solutions on SlideShare](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Learning Objective 4: Developing smart contracts with Visual Studio Code extension 
-
-[Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
-
-[Download Visual Studio Code](https://code.visualstudio.com/)
-
-[Install IBM Blockchain Platform for VS Code ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
-
-Go through Tutorial One in VS Code: Local Smart Contract Development.
-
-Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an application gateway</i> 
-
-<img src="VSCODE_TUT1.PNG" width="300" height="500">
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Debugging
+# Debugging NPM
 
 1. The application uses Node.js and can sometimes get the wrong version of Node.
 1. If npm install gets errors,
@@ -156,6 +157,8 @@ Follow the typical workflow from generating a new smart contract project, deploy
 1. nvm use 8.12.0 npm install or nvm use 8.12.0 npm rebuild npm install
 1. the same if npm start gets errors
 1 You can also do the same if Visual Studio Code console, Local Fabric Ops pane, do Teardown and Restart Fabric Runtime
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## Where do we go from here? 
 
