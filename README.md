@@ -4,7 +4,7 @@
 
 # Title: An introduction to the brand new IBM Blockchain Platform 2.0 !
 
-# linkedin.com/in/lennartfrantzell
+# Linkedin.com/in/lennartfrantzell
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist). 
 
