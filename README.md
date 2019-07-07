@@ -157,6 +157,7 @@ IAM Enabled= "Identity and Access Management"
 1. nvm use 8.12.0 npm install or nvm use 8.12.0 npm rebuild npm install
 1. the same if npm start gets errors
 1 You can also do the same if Visual Studio Code console, Local Fabric Ops pane, do Teardown and Restart Fabric Runtime
+1. If you get an error can't find xcode, do xcode-select --install
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
