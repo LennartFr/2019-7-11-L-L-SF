@@ -193,7 +193,7 @@ export class MyAssetContract extends Contract {
 
 ##  Now let's talk about IBM Blockchain Platform 
 
-### IBM Cloud sign-up link: [https://ibm.biz/BdzMtC](https://ibm.biz/BdzMtC)
+### Free IBM Cloud sign-up link: [https://ibm.biz/BdzMtC](https://ibm.biz/BdzMtC)
 
 <img src="login.png">
 
