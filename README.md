@@ -231,7 +231,9 @@ IAM Enabled= "Identity and Access Management"
 
 ## Where do we go from here? 
 
-[June 21: Blockchain Developer Summit](https://blockchain-developer-summit.splashthat.com)
+[Creating a basic Blockchain network using the IBM Blockchain Platform V2.0](https://github.com/IBM/Create-BlockchainNetwork-IBPV20)
+
+[SmartContract Trading using IBM Blockchain Platform Extension for VSCode (supports Fabric 1.4](https://github.com/IBM/SmartContractTrading-wFabric1-4-VSCodeExt)
  
 [Build a blockchain insurance app](https://developer.ibm.com/patterns/build-a-blockchain-insurance-app/)
 
