@@ -205,8 +205,11 @@ export class MyAssetContract extends Contract {
 
 IAM Enabled= "Identity and Access Management"
 
+### Select IBM Blockchain Platform Service
+
 <img src="BlockchainPlatform.png">
 
+### Select Kubernetes Service
 
 ### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
 
