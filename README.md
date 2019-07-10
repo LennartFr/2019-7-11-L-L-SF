@@ -24,7 +24,9 @@ registration/?cm_
 
 ## IBM Blockchain Twitter feeds:
 
-Christopher Ferris IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
+Jerry Cuomo IBM Fellow and CTO, instigator of Blockchain: https://twitter.com/jerrycuomo
+
+Christopher Ferris. IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
 
 Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
 
@@ -185,8 +187,6 @@ export class MyAssetContract extends Contract {
 }
 ~~~~
 
-
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Learning Objective 4: How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
@@ -241,3 +241,4 @@ IAM Enabled= "Identity and Access Management"
 
 [IBM SF Bay Area Meetups](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/)
   
+vcpi: https://cloud.ibm.com/registration/?cm_mmc=Email_Events-_-Developer_Innovation-_-WW_WW-_-alf\letstakeibmblockchainplatformforaspin-sanfrancisco-7112019\Jul2019\lunchandlearn\global-devadvgrp-sanfrancisco\sanfrancisco\unitedstates\blockchain\build-an-asset-leasing-application-using-blockchain-and-iot\coffee-supply-chain-network-hyperledger-fabric-blockchain-2&cm_mmca1=000019RS&cm_mmca2=10004805&cm_mmca3=M99938765&eventid=5d13ab047cd80a5f7ef03d6c&cvosrc=email.Events.M99938765&cvo_campaign=000019RS
