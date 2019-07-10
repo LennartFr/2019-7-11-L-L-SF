@@ -209,7 +209,9 @@ IAM Enabled= "Identity and Access Management"
 
 9999999
 
-<a href="https://developer.ibm.com/videos/deploy-a-peer-on-the-ibm-blockchain-platform/">Deply a Peer on the IBM Blockchain Platform</a>
+<a href="https://developer.ibm.com/videos/deploy-a-peer-on-the-ibm-blockchain-platform/">Deploy a Peer on the IBM Blockchain Platform</a>
+
+<a href="https://developer.ibm.com/videos/deploy-an-ordering-service-on-the-ibm-blockchain-platform/">Deploy an Ordering Service on the IBM Blockchain Platform</a>
 
 ### 3) [Select Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
 
