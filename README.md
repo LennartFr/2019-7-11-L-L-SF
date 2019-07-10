@@ -209,6 +209,8 @@ IAM Enabled= "Identity and Access Management"
 
 9999999
 
+<a href="https://developer.ibm.com/videos/deploy-a-peer-on-the-ibm-blockchain-platform/">Deply a Peer on the IBM Blockchain Platform</a>
+
 ### 3) [Select Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
 
 <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
