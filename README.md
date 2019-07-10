@@ -222,7 +222,10 @@ IAM Enabled= "Identity and Access Management"
 
 ### [Build a Network Tutorial with the IBM Blockchain Platform ](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-ibp-console-build-network#ibp-console-build-network-sample-tutorial)
 
-# Debugging NPM
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+# Appendix 
+
+## Debugging NPM
 
 1. The application uses Node.js and can sometimes get the wrong version of Node.
 1. If npm install gets errors,
@@ -233,7 +236,7 @@ IAM Enabled= "Identity and Access Management"
 1 You can also do the same if Visual Studio Code console, Local Fabric Ops pane, do Teardown and Restart Fabric Runtime
 1. If you get an error can't find xcode, do xcode-select --install
 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 
 ## Where do we go from here? 
 
