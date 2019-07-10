@@ -189,14 +189,11 @@ IAM Enabled= "Identity and Access Management"
 
 <img src="DeployIBPonIKS.png">
 
-### 5a) Cluster connected
+### 5) Your Cluster has been connected
 
 <img src="ClusterConnected.png">
 
-
-### 3) [Select Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) 
-
-### 4) IBM Blockchain Platform Console installed in IBM Cloud.
+### 6) IBM Blockchain Platform Console installed in IBM Cloud.
 
 <img src="IBP2.png" length="300" height="600">
 
