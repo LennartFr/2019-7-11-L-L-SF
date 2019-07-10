@@ -199,13 +199,13 @@ export class MyAssetContract extends Contract {
 
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
 
-### IBM Blockchain Platform in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). Select "Blockchain Platform IBM IAM-enabled"
+### Find IBM Blockchain Platform service in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). 
 
 <img src="IBP_2.0.png">
 
 IAM Enabled= "Identity and Access Management"
 
-### Select IBM Blockchain Platform Service
+### 2) Select IBM Blockchain Platform Service
 
 <img src="BlockchainPlatform.png">
 
