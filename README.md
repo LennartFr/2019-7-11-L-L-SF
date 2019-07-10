@@ -209,7 +209,7 @@ IAM Enabled= "Identity and Access Management"
 
 99999999999999999999999999999999999999999999999999999999
 
-<ikmg src="Bchain.platform.png">
+<ikmg src="Bchain_platform.png">
 
 
 
