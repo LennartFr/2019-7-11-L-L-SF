@@ -88,7 +88,6 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 <img src="VSC_BC.png">
 
-
 ### [Visual Studio Code](https://code.visualstudio.com)
 
 ### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
@@ -193,7 +192,7 @@ export class MyAssetContract extends Contract {
 
 <img src="login.png">
 
-[Promocodes](https://www.slideshare.net/LennartF/pcode)
+[How to apply promocodes](https://www.slideshare.net/LennartF/pcode)
 
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
 
@@ -206,8 +205,6 @@ IAM Enabled= "Identity and Access Management"
 ### 2) Launch IBM Blockchain Platform Service
 
 <img src="Bchain_platform.png">
-
-9999999
 
 <a href="https://developer.ibm.com/series/ibm-blockchain-platform-console-video-series/">IBM Blockchain Platform Console Video Series. Follow along this four part series to set up a business network on the IBM Blockchain Platform</a>
 
