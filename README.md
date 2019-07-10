@@ -206,6 +206,9 @@ IAM Enabled= "Identity and Access Management"
 
 <img src="Bchain_platform.png">
 
+<img src="Welcome2platform.png">
+
+
 <a href="https://developer.ibm.com/series/ibm-blockchain-platform-console-video-series/">IBM Blockchain Platform Console Video Series. Follow along this four part series to set up a business network on the IBM Blockchain Platform</a>
 
 <a href="https://developer.ibm.com/videos/deploy-a-peer-on-the-ibm-blockchain-platform/">Deploy a Peer on the IBM Blockchain Platform</a>
