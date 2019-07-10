@@ -205,11 +205,11 @@ IAM Enabled= "Identity and Access Management"
 
 ### 2) Launch IBM Blockchain Platform Service
 
-<img src="BlockchainPlatform.png">
+<img src="Bchain_platform.png">
 
 99999999999999999999999999999999999999999999999999999999
 
-<ikmg src="Bchain_platform.png">
+<img src="Bchain_platform.png">
 
 
 
