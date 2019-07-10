@@ -205,6 +205,9 @@ export class MyAssetContract extends Contract {
 
 IAM Enabled= "Identity and Access Management"
 
+<img src="BlockchainPlatform.png">
+
+
 ### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
 
 <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
