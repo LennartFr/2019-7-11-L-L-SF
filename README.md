@@ -207,11 +207,7 @@ IAM Enabled= "Identity and Access Management"
 
 <img src="Bchain_platform.png">
 
-99999999999999999999999999999999999999999999999999999999
-
-<img src="Bchain_platform.png">
-
-
+9999999
 
 ### 3) [Select Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
 
