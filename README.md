@@ -206,23 +206,24 @@ IAM Enabled= "Identity and Access Management"
 
 <img src="Bchain_platform.png">
 
+### 3) Welcome to the IBM Blockchain platform
+
 <img src="Welcome22platform.png">
 
+### 4) Deploy the IBM Blockchain Service on the IKS. 
+
 <img src="DeployIBPonIKS.png">
+
+### 5a) Cluster connected
 
 <img src="ClusterConnected.png">
 
 
-### 3) [Select Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
-
-<a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
-"** Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes free cluster. Performance will be limited by throughput, storage and functionality. IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
+### 3) [Select Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) 
 
 ### 4) IBM Blockchain Platform Console installed in IBM Cloud.
 
 <img src="IBP2.png" length="300" height="600">
-
-### [Build a Network Tutorial with the IBM Blockchain Platform ](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-ibp-console-build-network#ibp-console-build-network-sample-tutorial)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Appendix 
@@ -234,6 +235,8 @@ IAM Enabled= "Identity and Access Management"
 <a href="https://developer.ibm.com/videos/deploy-an-ordering-service-on-the-ibm-blockchain-platform/">Deploy an Ordering Service on the IBM Blockchain Platform</a>
 
 <a href="https://developer.ibm.com/videos/create-and-join-a-channel-on-the-ibm-blockchain-platform/">Create and join a channel on the IBM Blockchain Platform</a>
+
+### [Build a Network Tutorial with the IBM Blockchain Platform ](https://cloud.ibm.com/docs/services/blockchain/howto?topic=blockchain-ibp-console-build-network#ibp-console-build-network-sample-tutorial)
 
 ## Debugging NPM
 
