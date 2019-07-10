@@ -207,7 +207,7 @@ IAM Enabled= "Identity and Access Management"
 
 <img src="BlockchainPlatform.png">
 
-<ikmg src="Blockchain Platform.png">
+<ikmg src="Blockchain_Platform.png">
 
 
 
