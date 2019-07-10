@@ -189,8 +189,6 @@ export class MyAssetContract extends Contract {
 
 # Learning Objective 4: How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
 
-##  Now let's talk about IBM Blockchain Platform 
-
 ### Free IBM Cloud sign-up link: [https://ibm.biz/BdzMtC](https://ibm.biz/BdzMtC)
 
 <img src="login.png">
@@ -205,7 +203,7 @@ export class MyAssetContract extends Contract {
 
 IAM Enabled= "Identity and Access Management"
 
-### 2) Select IBM Blockchain Platform Service
+### 2) Launch IBM Blockchain Platform Service
 
 <img src="BlockchainPlatform.png">
 
