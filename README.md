@@ -199,7 +199,7 @@ export class MyAssetContract extends Contract {
 
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
 
-### Find IBM Blockchain Platform service in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). 
+### 1) Find IBM Blockchain Platform service in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). 
 
 <img src="IBP_2.0.png">
 
@@ -209,12 +209,14 @@ IAM Enabled= "Identity and Access Management"
 
 <img src="BlockchainPlatform.png">
 
-### Select Kubernetes Service
 
-### [Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
+### 3) [Select Kubernetes Cluster](https://cloud.ibm.com/kubernetes/catalog/cluster) in the IBM Cloud
 
 <a href="https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-ibp-saas-pricing">Blockchain IBP Pricing</a>
 "** Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes free cluster. Performance will be limited by throughput, storage and functionality. IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
+
+
+### 4) IBM Blockchain Platform installed in IBM Cloud.
 
 <img src="IBP2.png" length="300" height="600">
 
