@@ -8,8 +8,6 @@
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist). 
 
-registration/?cm_
-
 ## News
 
 [Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
