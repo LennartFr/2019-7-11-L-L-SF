@@ -214,7 +214,7 @@ IAM Enabled= "Identity and Access Management"
 "** Preview the IBM Blockchain Platform at no charge for 30 days when you link your IBM Blockchain Platform service instance to an IBM Cloud Kubernetes free cluster. Performance will be limited by throughput, storage and functionality. IBM Cloud will delete your Kubernetes cluster after 30 days and you cannot migrate any nodes or data from a free cluster to a paid cluster. "
 
 
-### 4) IBM Blockchain Platform installed in IBM Cloud.
+### 4) IBM Blockchain Platform Console installed in IBM Cloud.
 
 <img src="IBP2.png" length="300" height="600">
 
