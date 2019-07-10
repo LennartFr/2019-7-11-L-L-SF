@@ -8,31 +8,6 @@
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist). 
 
-## News
-
-[Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
-
-[Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
-
-[Cargill Hyperledger Grid](https://www.cargill.com/2019/cargill-invests-digital-engineering-to-support-hyperledger-grid)
-
-[Target Blockchain for Supply Chain](https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
-
-[Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
-
-## IBM Blockchain Twitter feeds:
-
-Jerry Cuomo IBM Fellow and CTO, instigator of Blockchain: https://twitter.com/jerrycuomo
-
-Christopher Ferris. IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
-
-Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
-
-Christian Cachin Swiss Cryptographer, Zurich. https://twitter.com/cczurich?lang=en
-
-IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
-
-Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -264,3 +239,31 @@ IAM Enabled= "Identity and Access Management"
 [IBM SF Bay Area Meetups](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/)
   
 vcpi: https://cloud.ibm.com/registration/?cm_mmc=Email_Events-_-Developer_Innovation-_-WW_WW-_-alf\letstakeibmblockchainplatformforaspin-sanfrancisco-7112019\Jul2019\lunchandlearn\global-devadvgrp-sanfrancisco\sanfrancisco\unitedstates\blockchain\build-an-asset-leasing-application-using-blockchain-and-iot\coffee-supply-chain-network-hyperledger-fabric-blockchain-2&cm_mmca1=000019RS&cm_mmca2=10004805&cm_mmca3=M99938765&eventid=5d13ab047cd80a5f7ef03d6c&cvosrc=email.Events.M99938765&cvo_campaign=000019RS
+
+
+
+## News
+
+[Does Hyperledger Fabric perform at scale?](https://www.ibm.com/blogs/blockchain/2019/04/does-hyperledger-fabric-perform-at-scale/)
+
+[Forbes: Blockchain Goes To Work At Walmart, Amazon, JPMorgan, Cargill and 46 Other Enterprises](https://www.forbes.com/sites/michaeldelcastillo/2019/04/16/blockchain-goes-to-work/#3aa207de2a40)
+
+[Cargill Hyperledger Grid](https://www.cargill.com/2019/cargill-invests-digital-engineering-to-support-hyperledger-grid)
+
+[Target Blockchain for Supply Chain](https://www.coindesk.com/retail-giant-target-is-working-on-a-blockchain-for-supply-chains)
+
+[Why new off-chain storage is required for blockchains](https://www.ibm.com/downloads/cas/RXOVXAPM)
+
+## IBM Blockchain Twitter feeds:
+
+Jerry Cuomo IBM Fellow and CTO, instigator of Blockchain: https://twitter.com/jerrycuomo
+
+Christopher Ferris. IBM Fellow CTO Open Technology https://twitter.com/christo4ferris
+
+Arnaud J Le Hors. Senior Technical Staff Member: https://twitter.com/lehors
+
+Christian Cachin Swiss Cryptographer, Zurich. https://twitter.com/cczurich?lang=en
+
+IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
+
+Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
