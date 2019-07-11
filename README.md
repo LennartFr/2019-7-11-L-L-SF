@@ -18,7 +18,7 @@ Contacts:
 
 1. Introduction
 
-1. On your laptop: how to install the IBM Visual Studio Code with the brand new IBP plugin
+1. On your laptop: how to install the Visual Studio Code with the IBM Blockchain Platform plugin
 
 1. How to create your first Smart Contract with Visual Studio Code
 
