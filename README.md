@@ -82,7 +82,7 @@ Enterprise grade permissioned distributed ledger platform that offers modularity
 
 # Learning Objective 3: Developing smart contracts with Visual Studio Code extension 
 
-[Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
+[Complete instructions: Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
 
 Go through Tutorial One in VS Code: Local Smart Contract Development.
 
