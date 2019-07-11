@@ -19,7 +19,7 @@
 
 1. How to create your first Smart Contract with Visual Studio Code
 
-1. How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
+1. How to launch the brand new <a href="https://ibm.biz/Bdzmec">IBM Blockchain Platform 2.0 </a> in the IBM Cloud
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -177,7 +177,7 @@ export class MyAssetContract extends Contract {
 
 IAM Enabled= "Identity and Access Management"
 
-### 2) Launch IBM Blockchain Platform Service
+### 2) Launch <a href="https://ibm.biz/Bdzmec">IBM Blockchain Platform Service</a>
 
 <img src="Bchain_platform.png">
 
