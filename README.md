@@ -8,10 +8,7 @@ Contacts:
 
 ### Linkedin.com/in/lennartfrantzell
 ### Linkedin.com/in/drnugent/
-
-[Whitelisting](https://cloud.ibm.com/registration/whitelist). 
-
-
+ 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Learning Objectives:
@@ -263,3 +260,7 @@ Christian Cachin Swiss Cryptographer, Zurich. https://twitter.com/cczurich?lang=
 IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
 
 Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
+
+## Whitelisting
+
+[Whitelisting](https://cloud.ibm.com/registration/whitelist).
