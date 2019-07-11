@@ -6,8 +6,8 @@
 
 Contacts:
 
-# Linkedin.com/in/lennartfrantzell
-# Linkedin.com/in/drnugent/
+### Linkedin.com/in/lennartfrantzell
+### Linkedin.com/in/drnugent/
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist). 
 
