@@ -4,7 +4,10 @@
 
 # An introduction to the IBM Blockchain Platform 2.0!
 
+Contacts:
+
 # Linkedin.com/in/lennartfrantzell
+# Linkedin.com/in/drnugent/
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist). 
 
