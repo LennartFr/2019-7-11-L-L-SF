@@ -34,7 +34,7 @@ Digital signatures provide part of the solution, but the main benefits are lost 
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
 
 ## Let's start with Hyperledger:
-
+ 
 <img src= "Hyperledger.png" width="1000" height="500">
 
 1. #### [https://github.com/hyperledger/](https://github.com/hyperledger/)
