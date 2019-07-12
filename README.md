@@ -231,7 +231,6 @@ IAM Enabled= "Identity and Access Management"
 
 [IBM SF Bay Area Meetups](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/)
   
-vcpi: https://cloud.ibm.com/registration/?cm_mmc=Email_Events-_-Developer_Innovation-_-WW_WW-_-alf\letstakeibmblockchainplatformforaspin-sanfrancisco-7112019\Jul2019\lunchandlearn\global-devadvgrp-sanfrancisco\sanfrancisco\unitedstates\blockchain\build-an-asset-leasing-application-using-blockchain-and-iot\coffee-supply-chain-network-hyperledger-fabric-blockchain-2&cm_mmca1=000019RS&cm_mmca2=10004805&cm_mmca3=M99938765&eventid=5d13ab047cd80a5f7ef03d6c&cvosrc=email.Events.M99938765&cvo_campaign=000019RS
 
 
 
@@ -262,5 +261,28 @@ IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
 Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
 
 ## Whitelisting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist).
